@@ -7,6 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Poseidon137x&repo=Proj-Eng-Software-II&show_owner=true&theme=holi&bg_color=00000000&description_lines_count)]([https://github.com/Poseidon137x/Proj-Eng-Software-II))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Poseidon137x&repo=Trab-BD-I&show_owner=true&theme=holi&bg_color=00000000&description_lines_count)]([(https://github.com/Poseidon137x/Trab-BD-I)))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeyousoro&repo=Projeto-Portfolio-Projetos&show_owner=true&theme=holi&bg_color=00000000&description_lines_count)]([(https://github.com/felipeyousoro/Projeto-Portfolio-Projetos)))
 
 
 ### Linguagens mais usadas
